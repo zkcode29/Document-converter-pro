@@ -5,7 +5,7 @@ A smart and user-friendly web app that lets you **convert PDF to Word** and **Wo
 
 ---
 
-## 💡 Project Inspiration
+## Project Inspiration
 
 This project was born out of a **real personal need**.
 
@@ -15,7 +15,7 @@ So I thought — why not build my own **secure, clean, and instant** converter?
 Now I use **my own project** to handle those requests — faster and safer!
 
 
-## 🔥 Features
+## Features
 
 ✅ **PDF to Word** conversion using `PyPDF2`  
 ✅ **Word to PDF** conversion using `python-docx` and `reportlab`  
@@ -27,7 +27,7 @@ Now I use **my own project** to handle those requests — faster and safer!
 ✅ No need to install MS Office or external software
 
 
-## 🎯 Use Cases
+##  Use Cases
 
 - Students converting lecture notes from PDF to editable Word
 - Freelancers generating final reports in PDF
@@ -35,7 +35,7 @@ Now I use **my own project** to handle those requests — faster and safer!
 - Anyone tired of using ad-filled online converters!
 
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Tool | Purpose |
 |------|---------|
